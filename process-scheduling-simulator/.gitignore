@@ -1,0 +1,46 @@
+# Compiled binaries and executables
+process_scheduler
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug information
+*.dSYM/
+*.pdb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Output files (if any are generated)
+output.txt
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Word documents and PDFs (project reports)
+*.doc
+*.docx
+*.pdf
+
+# Backup files
+*.bak
+*.backup
